@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="168.805mm" height="49.2684mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5898.09 1721.45"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="609" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Lauren">
+		<font-face-src>
+			<font-face-name name="Lauren Normal"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="+" horiz-adv-x="633" d="M518.001 225.001l-149.002 0 0 -185.003 -135.999 0 0 185.003 -152 0 0 146 152 0 0 181.997 132.002 0 0 -181.997 152.999 0 0 -146z"/>
+   <glyph unicode="D" horiz-adv-x="653" d="M590 350.001c0,-86.6672 -30.334,-165.334 -91.0007,-236 -63.9998,-74.0008 -139.333,-111.001 -225.999,-111.001l-129 0c-24.0001,0 -44.667,8.00051 -62.0008,24.0001 -17.3337,16.001 -28.666,36.6679 -33.9997,62.0008l0 524c5.33367,24.6665 18.3326,45.8335 38.9995,63.4997 20.6669,17.6662 43.6668,26.4993 68.9996,26.4993l128.001 0c83.999,0 156.666,-37.6653 218,-112.999 58.6662,-72.0003 87.9999,-152 87.9999,-240zm-150.001 4.99979c0,63.3335 -18.3326,112.999 -54.9991,148.999 -42.668,41.3338 -107.334,62.0008 -194,62.0008l0 -426.001c84.6653,0 147.999,19.6667 189.999,59 39.3334,36.6665 59,88.6663 59,156.001z"/>
+   <glyph unicode="i" horiz-adv-x="250" d="M182 577c0,-19.3328 -6.50015,-35.6663 -19.5004,-49.0005 -13.1665,-13.3328 -28.9999,-19.9991 -47.9988,-19.9991 -18.8341,0 -34.8337,6.66638 -48.0002,19.9991 -13.0003,13.3342 -19.5004,29.6677 -19.5004,49.0005 0,19.3328 6.50015,35.6663 19.5004,49.0005 13.1665,13.3328 29.1661,19.9991 48.0002,19.9991 18.9989,0 34.8323,-6.66638 47.9988,-19.9991 13.0003,-13.3342 19.5004,-29.6677 19.5004,-49.0005zm0 -578l-135 0 0 457 135 0 0 -457z"/>
+   <glyph unicode="r" horiz-adv-x="318" d="M276 344.001c-23.3338,0 -43.0004,-3.66708 -59,-11.0012 -21.9996,-9.99957 -32.9994,-24.8327 -32.9994,-44.8333l0 -285.167 -139.001 0 0 302.334c0,49.8331 20.5007,89.0002 61.5006,117.332 41,28.1673 97.4994,42.3341 169.5,42.3341l0 -120.999z"/>
+   <glyph unicode="v" horiz-adv-x="474" d="M446 463l-132.999 -412c-6.00003,-18.6664 -17.3337,-33.1657 -33.9997,-43.4991 -16.6674,-10.3335 -35.6677,-15.5009 -57.001,-15.5009 -20.6669,0 -38.9995,4.83355 -54.9991,14.5007 -16.001,9.66711 -27.0008,23.8339 -33.0009,42.5003l-130 413.999 144.001 0 77.0001 -323 80.9997 323 140 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Lauren";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil4 {fill:url(#id0)}
+    .fil0 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+    .fil2 {fill:url(#id3)}
+    .fil3 {fill:url(#id4)}
+    .fnt1 {font-weight:normal;font-size:923.07px;font-family:'Lauren'}
+    .fnt0 {font-weight:normal;font-size:2459.19px;font-family:'Lauren'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-3101.15" y1="1150.17" x2="6866.91" y2="1228.96">
+   <stop offset="0" style="stop-opacity:1; stop-color:#EC268F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A75B5"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="-3674.68" y1="1188.14" x2="8121.41" y2="1225.12">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9D325E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A75B5"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="-3101.17" y1="1150.17" x2="6866.92" y2="1228.96">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="-3101.17" y1="1150.17" x2="6866.92" y2="1228.96">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="-3101.17" y1="1150.17" x2="6866.92" y2="1228.95">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="1575.22" y="1701.77"  class="fil0 fnt0">riv </text>
+  <g transform="matrix(1 0 -0.284852 1 9349.5 -2080.17)">
+   <text x="-8440.26" y="3808.98"  class="fil1 fnt0">D</text>
+  </g>
+  <g transform="matrix(1.14277 0 0 1 14996.9 -2988.8)">
+   <text x="-8440.26" y="3808.98"  class="fil2 fnt1">+</text>
+  </g>
+  <g id="_2749548818960">
+   <path class="fil3" d="M4839.86 557.23c307.23,0 556.25,249.03 556.25,556.25 0,56.47 -305.1,81.17 -305.1,0 0,-138.7 -112.44,-251.15 -251.15,-251.15 -138.7,0 -251.14,112.44 -251.14,251.15 0,138.71 112.44,251.15 251.14,251.15 41.07,0 79.85,-9.87 114.08,-27.35l395.29 0c-86.11,195.75 -281.77,332.46 -509.36,332.46 -307.22,0 -556.25,-249.03 -556.25,-556.25 0,-307.22 249.03,-556.25 556.25,-556.25z"/>
+   <rect class="fil4" x="4708.23" y="1047.66" width="263.26" height="131.64" rx="59.84" ry="59.84"/>
+  </g>
+ </g>
+</svg>
