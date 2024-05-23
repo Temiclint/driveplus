@@ -26,8 +26,8 @@ const Hero = () => (
 
     <h1 className='font-raleway font-semibold ss:text-[68px] text-[52px] text-gray-700 
     ss:leading-[100px] leading-[75px] w-full' > The Safest Car Pooling Service</h1>
-    <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-   Drive+ make moving without stress possible by commuters with car owners who share constant similar route around you. Move from home to work easily !! 
+    <p className={`${styles.paragraph} max-w-[650px] mt-5`}>
+   Drive+ makes moving without stress possible by commuters with car owners who share constant similar route around you. Move from home to work easily !! 
 
     </p>
 
