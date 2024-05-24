@@ -26,7 +26,7 @@ const FeatureCard =({icon, content, title, index})=>
 
 const Business = () => {
   return (
-    <section id="features" className={layout.section}>
+    <section id="features" className={layout.section} >
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>Get Ready for work, <br className="sm:block hidden"/>we’ll handle the Commute</h2>
         <p className={`${styles.paragraph} max-w-[650px] mt-5`}>
